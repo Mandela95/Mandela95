@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamed El-Seady
 - 👀 I’m interested in Learning New Technologies ...
-<!-- - 🌱 I’m currently learning React JS -->
+- 🌱 I’m currently learning React JS
 - 📫 How to reach me ...
 - https://www.linkedin.com/in/mo-seady/
 - https://twitter.com/MohElseady
