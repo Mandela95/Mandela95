@@ -2,6 +2,7 @@
 - 👀 I’m interested in Learning New Technologies ...
 - 🌱 I’m currently learning React JS
 - 📫 How to reach me ...
+- mohamedelseady247@gmail.com
 - https://www.linkedin.com/in/mo-seady/
 - https://twitter.com/MohElseady
 
