@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mohamed El-Seady (Frontend Developer)
+- 👋 Hi, I’m @Mohamed El-Seady (Frontend Developer React Js)
 - 👀 I’m interested in Learning New Technologies ...
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Redux and Next js
 - 📫 How to reach me ...
 - mohamedelseady247@gmail.com
 - https://www.linkedin.com/in/mo-seady/
