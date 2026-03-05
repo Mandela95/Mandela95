@@ -1,5 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Mandela95&color=blue)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mandela95&show_icons=true&theme=radical)
+
 - 👋 Hi, I’m @Mohamed El-Seady (Frontend Developer React Js)
 - 👀 I’m interested in Learning New Technologies ...
 - 🌱 I’m currently learning different topics about software in general ...
