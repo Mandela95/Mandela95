@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=firefox&logoColor=white)](https://mandela95.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mo-seady/)
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black)](https://x.com/MohElseady)
+[![X](https://img.shields.io/badge/X-1DA1F2?logo=X&logoColor=black)](https://x.com/MohElseady)
 
 ---
 
