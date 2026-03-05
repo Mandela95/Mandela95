@@ -15,6 +15,7 @@ You can view my resume [here](https://drive.google.com/file/d/1EI5MWLlUoqhkiFQU5
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=firefox&logoColor=white)](https://mandela95.github.io/Portfolio/)
 [![X](https://img.shields.io/badge/-000000?logo=x&logoColor=white)](https://x.com/MohElseady)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mohamedelseady247@gmail.com)
+mohamedelseady247@gmail.com
 
 ---
 
