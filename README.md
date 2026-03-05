@@ -2,25 +2,20 @@
 
 # Mohamed El-Seady
 
-👋 Hi, I’m Mohamed El-Seady, a passionate **Frontend Developer (React.js)**.
+👋 Hi, I’m Mohamed El-Seady, a passionate **Frontend and Cross-platorm mobile developer (React, TypeScript) | React Native**.
 
 ---
-
 ## 📄 Resume
 
-You can view my resume [here](https://drive.google.com/file/d/1EI5MWLlUoqhkiFQU5EWJICNacov604sr/view).
-
----
+You can view my resume [here](https://drive.google.com/file/d/1EI5MWLlUoqhkiFQU5EWJICNacov604sr/view){:target="_blank"}.
 
 ## 📫 How to Reach Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=firefox&logoColor=white)](https://mandela95.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mo-seady/)
-[![X](https://img.shields.io/badge/X-1DA1F2?logo=X&logoColor=black)](https://x.com/MohElseady)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=firefox&logoColor=white)](https://mandela95.github.io/Portfolio/){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mo-seady/){:target="_blank"}
+[![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=black)](https://x.com/MohElseady){:target="_blank"}
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mohamedelseady247@gmail.com)
 
 ---
-
 ## 🛠️ Skills
 
 ### Languages
@@ -61,9 +56,3 @@ You can view my resume [here](https://drive.google.com/file/d/1EI5MWLlUoqhkiFQU5
 - Data Structures & Algorithms
 - Design Patterns
 - SOLID Principles
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mandela95&show_icons=true&theme=radical&cache_seconds=1800)
