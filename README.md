@@ -1,6 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Mandela95&color=blue)
 
-# Hi, I'm Mohamed El-Seady 👋 **Frontend and Cross-platform mobile developer (React, TypeScript) | React Native**  
+# Hi, I'm Mohamed El-Seady 👋 
+**Frontend and Cross-platform mobile developer (React, TypeScript) | React Native**  
 ---
 
 ## 📫 Connect with Me
