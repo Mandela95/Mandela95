@@ -1,8 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Mandela95&color=blue)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mandela95&show_icons=true&theme=radical)
-
-
 ## test
 
 ## 🌐 Socials
@@ -10,15 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=firefox&logoColor=white)](https://mandela95.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mo-seady/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/MohElseady)
-
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mandela95&show_icons=true&theme=radical&cache_seconds=1800)
-
----
-
 ## 🛠️ Skills
 
 ### Languages
@@ -32,12 +21,6 @@
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-
----
-
-## 📄 Resume
-
-You can view my resume [here](./Mohamed%20Elseady%20Software%20Engineer.pdf).
 
 ## end test
 
