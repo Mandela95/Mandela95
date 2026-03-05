@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=firefox&logoColor=white)](https://mandela95.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mo-seady/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/MohElseady)
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black)](https://x.com/MohElseady)
 
 ---
 
@@ -71,7 +71,3 @@ You can view my resume [here](https://drive.google.com/file/d/1EI5MWLlUoqhkiFQU5
 - **Twitter**: [twitter.com/MohElseady](https://twitter.com/MohElseady)
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mandela95&show_icons=true&theme=radical&cache_seconds=1800)
