@@ -6,11 +6,18 @@
 
 ---
 
-## 🌐 Socials
+## 📄 Resume
+
+You can view my resume [here](https://drive.google.com/file/d/1EI5MWLlUoqhkiFQU5EWJICNacov604sr/view).
+
+---
+
+## 📫 How to Reach Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=firefox&logoColor=white)](https://mandela95.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mo-seady/)
 [![X](https://img.shields.io/badge/X-1DA1F2?logo=X&logoColor=black)](https://x.com/MohElseady)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mohamedelseady247@gmail.com)
 
 ---
 
@@ -57,17 +64,6 @@
 
 ---
 
-## 📄 Resume
+## 📊 GitHub Stats
 
-You can view my resume [here](https://drive.google.com/file/d/1EI5MWLlUoqhkiFQU5EWJICNacov604sr/view).
-
----
-
-## 📫 How to Reach Me
-
-- **Email**: mohamedelseady247@gmail.com
-- **Portfolio**: [mandela95.github.io/Portfolio](https://mandela95.github.io/Portfolio/)
-- **LinkedIn**: [linkedin.com/in/mo-seady](https://www.linkedin.com/in/mo-seady/)
-- **Twitter**: [twitter.com/MohElseady](https://twitter.com/MohElseady)
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mandela95&show_icons=true&theme=radical&cache_seconds=1800)
