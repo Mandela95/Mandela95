@@ -2,7 +2,7 @@
 
 # Mohamed El-Seady
 
-👋 Hi, I'm Mohamed El-Seady, a passionate **Frontend and Cross-platform mobile developer (React, TypeScript) | React Native**.
+👋 Hi, I'm Mohamed El-Seady, a **Frontend and Cross-platform mobile developer (React, TypeScript) | React Native**.
 
 ---
 
@@ -11,8 +11,8 @@
 You can view my resume [here](https://drive.google.com/file/d/1EI5MWLlUoqhkiFQU5EWJICNacov604sr/view).
 
 ## 📫 How to Reach Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=firefox&logoColor=white)](https://mandela95.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mo-seady/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=firefox&logoColor=white)](https://mandela95.github.io/Portfolio/)
 [![X](https://img.shields.io/badge/-000000?logo=x&logoColor=white)](https://x.com/MohElseady)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mohamedelseady247@gmail.com)
 
