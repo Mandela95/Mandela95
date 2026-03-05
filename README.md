@@ -1,16 +1,19 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Mandela95&color=blue)
 
 # Hi, I'm Mohamed El-Seady 👋
-
 **Frontend and Cross-platform mobile developer (React, TypeScript) | React Native**  
 ---
 
 ## 📫 Connect with Me
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mohamedelseady247@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mo-seady/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=googlechrome&logoColor=white)](https://mandela95.github.io/Portfolio/)
 [![X](https://img.shields.io/badge/-000000?logo=x&logoColor=white)](https://x.com/MohElseady)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mohamedelseady247@gmail.com)
+[![Messenger](https://img.shields.io/badge/Messenger-0078FF?logo=messenger&logoColor=white)](https://www.messenger.com/t/7669990253087095/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/hamoelseady/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/els3eedy/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+201146817834)
 
 ---
 
