@@ -11,8 +11,8 @@ React | TypeScript | React Native
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mo-seady/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=googlechrome&logoColor=white)](https://mandela95.github.io/Portfolio/)
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/MohElseady)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedelseady247@gmail.com)
+[![X](https://img.shields.io/badge/-000000?logo=x&logoColor=white)](https://x.com/MohElseady)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedelseady247@gmail.com)
 
 ---
 
@@ -51,20 +51,14 @@ React | TypeScript | React Native
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Command Line](https://img.shields.io/badge/Command%20Line-000000?logo=console&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-1F8ACB?logo=dbeaver&logoColor=white)
+![Knex.js](https://img.shields.io/badge/Knex.js-3A3A3A?logo=knex&logoColor=white)
 
 ### 🧠 CS Fundamentals
 `OOP` `Data Structures` `Algorithms` `Design Patterns` `SOLID Principles`
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mandela95&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandela95&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
